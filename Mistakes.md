@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-last_updated: YYYY-MM-DD
+last_updated: 2026-10-27
 ---
 # Mistakes
 
