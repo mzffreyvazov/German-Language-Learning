@@ -16,6 +16,6 @@
    b. The next logical step in grammar and topics, ordered by how much each blocks reading ability in the target language.
    c. The user's stated wishes.
 4. Place a gate entry when appropriate (README §7), such as the writing-unlock gate once writing readiness looks plausible.
-5. For each proposed entry give: ID (from Counters), name, type, a 2-4 sentence description, and one line on why it is next. Do not write lesson content.
+5. For each proposed entry give: ID (from Counters), name, type, a 2-4 sentence description stating scope explicitly (defining full boundaries for closed sets, or noting how a large closed set is divided), and one line on why it is next. Do not write lesson content.
 6. Update the coarse map if the plan changed. Keep it names only.
 7. Follow README §9: change list (Roadmap, State next lessons and counters, Mistakes status changes), confirm, write, verify.

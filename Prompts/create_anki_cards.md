@@ -1,4 +1,3 @@
-
 # create_anki_cards: card import format (shared spec)
 
 **Purpose:** define exactly how vocabulary import files are produced. Other prompts (`learn_lesson`, `generate_reading`, `create_test`, `gate_test`) call this. It can also be run on its own.
@@ -21,8 +20,8 @@ Card templates render `Front` on the front side, and `Meaning`, `Pronunciation`,
 ## Instructions for the agent
 
 1. Read `README.md`. If `Vocab/anki-export.txt` exists, read it so you do not create cards for words the user already has.
-2. Build the list of words to add. Only new words from the source, with these limits and rules:
-   - Max 15 cards per lesson or reading. If more are needed, say so and let the user choose.
+2. Build the list of words to add. Include EVERY new word or expression from the source:
+   - **Full Vocabulary Capture:** Every single new word that appears anywhere in the source (explanations, phonetic examples, sample sentences, drills, checks, or vocabulary lists) that the user does not already have in their known vocabulary / `Vocab/anki-export.txt` MUST be turned into a card. Never omit, sample, or orphan new words.
    - **`Front`:** The target-language word or phrase.
      - **Nouns:** include article/gender marker plus singular, and plural form (e.g. `der Tisch, die Tische`).
      - **Verbs:** infinitive form.

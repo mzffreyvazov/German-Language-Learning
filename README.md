@@ -144,12 +144,15 @@ tags: [lesson]
 ## New vocabulary
 (cards: Vocab/Anki_Imports/L###-cards.txt)
 
+## Additions YYYY-MM-DD
+(follow-up explanations folding back gaps; flags if gap was in a closed set)
+
 ## Check YYYY-MM-DD
 - score: x/y
 - missed: <short list>
 ```
 
-A new `## Check <date>` header is appended each time the user is checked on the lesson.
+A new `## Check <date>` header is appended each time the user is checked on the lesson. Follow-up answers that close gaps are appended under `## Additions <date>`.
 
 ### 6.4 Reading note
 
@@ -291,6 +294,9 @@ What each task updates:
 ## 10. Agent conduct
 
 - Never invent progress. If a file is missing or unclear, ask.
+- **Closed vs. Open Sets:** Closed sets (finite inventories: alphabet, sounds, pronouns, articles, case tables, regular verb endings) must be fully taught within their declared scope; never thin them out. If a closed set is too large for one sitting, split it explicitly on the roadmap. Open sets (vocabulary, idioms, usage nuances) can be selectively sampled. In familiarization, "lighter" means lighter in depth and volume, never in coverage of a closed set.
+- **Full Vocabulary Capture:** Every new word introduced anywhere in a lesson (including in phonetic examples, explanations, and drills) must be recorded in `## New vocabulary` and included in the lesson's card import file. No word introduced to the user may be left orphaned without an Anki card.
+- **Safety Net:** Fold follow-up explanations that close gaps back into the lesson note under `## Additions YYYY-MM-DD` and explicitly flag whether the gap was in a closed set (identifying under-scoping).
 - Write explanations in the `explanation_language`; examples in the target language.
 - Keep lessons completable in one sitting. If a topic is too big, split it and propose the split.
 - Always include articles/gender and plurals for nouns when the language has them.

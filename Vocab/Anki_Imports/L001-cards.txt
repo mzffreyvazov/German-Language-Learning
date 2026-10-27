@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Language Vocab
+#deck:German
+#tags column:5
+das Bett, die Betten	bed, beds	BET	Noun (n), short vowel before double consonant	L001 familiarization
+der Kamm, die Kämme	comb, combs	KAM	Noun (m), short vowel before double consonant	L001 familiarization
+bieten	to offer	BEE-tun	Verb, long ie = /iː/	L001 familiarization
+die Bahn, die Bahnen	train, railway	BAHN	Noun (f), long vowel before silent h	L001 familiarization
+Köln	Cologne	KØLN	Proper noun, ö like Az/Tr	L001 familiarization
+die Tür, die Türen	door, doors	TYUR, TYU-run	Noun (f), ü like Az/Tr	L001 familiarization
+das Mädchen, die Mädchen	girl, girls	MEHT-khyun	Noun (n), ä = /ɛː/, -chen is always neuter	L001 familiarization
+der Käse	cheese	KEH-zuh	Noun (m), ä = /ɛː/, s = voiced z	L001 familiarization
+mein	my	MAYN	Possessive pronoun, ei = eye	L001 familiarization
+nein	no	NAYN	Adverb, ei = eye	L001 familiarization
+zwei	two	TSVAY	Number, z = ts, w = v, ei = eye	L001 familiarization
+sie	she, they	ZEE	Personal pronoun, ie = long ee	L001 familiarization
+hier	here	HEER	Adverb, ie = long ee	L001 familiarization
+vier	four	FEER	Number, v = f, ie = long ee	L001 familiarization
+neu	new	NOY	Adjective, eu = oy	L001 familiarization
+der Euro, die Euros	Euro, Euros	OY-roh	Noun (m), eu = oy	L001 familiarization
+Deutschland	Germany	DOYTCH-lant	Proper noun, eu = oy, sch = sh, d = t	L001 familiarization
+das Haus, die Häuser	house, houses	HOWS, HOY-zah	Noun (n), au = ow, äu = oy	L001 familiarization
+die Frau, die Frauen	woman, wife, Mrs.	FROW, FROW-un	Noun (f), au = ow, throat r	L001 familiarization
+das Wasser	water	VAH-sah	Noun (n), w = v, vocalic -er	L001 familiarization
+der Vater, die Väter	father, fathers	FAH-tah, FEH-tah	Noun (m), v = f, vocalic -er	L001 familiarization
+die Vase, die Vasen	vase, vases	VAH-zuh, VAH-zun	Noun (f), loanword v = v	L001 familiarization
+das Zimmer, die Zimmer	room, rooms	TSIM-mah	Noun (n), z = ts, vocalic -er	L001 familiarization
+die Sonne, die Sonnen	sun, suns	ZON-nuh, ZON-nun	Noun (f), initial s = voiced z	L001 familiarization
+sehen	to see	ZEH-un	Verb, initial s = voiced z, silent h	L001 familiarization
+die Straße, die Straßen	street, streets	SHTRAH-suh, SHTRAH-sun	Noun (f), st- = sht-, ß = sharp ss	L001 familiarization
+groß	big, tall	GROHS	Adjective, sharp ß, throat r	L001 familiarization
+heiß	hot	HAYS	Adjective, ei = eye, sharp ß	L001 familiarization
+die Schule, die Schulen	school, schools	SHOO-luh, SHOO-lun	Noun (f), sch = sh	L001 familiarization
+der Sport	sport	SHPORT	Noun (m), sp- = shp-	L001 familiarization
+die Stadt, die Städte	city, cities	SHTAT, SHTEH-tuh	Noun (f), st- = sht-	L001 familiarization
+der Stein, die Steine	stone, stones	SHTAYN, SHTAY-nuh	Noun (m), st- = sht-, ei = eye	L001 familiarization
+sprechen	to speak	SHPREKH-un	Verb, sp- = shp-, ch = ich-Laut	L001 familiarization
+das Buch, die Bücher	book, books	BUUKH, BYUU-khah	Noun (n), ach-Laut in sg., ich-Laut in pl.	L001 familiarization
+der Bach, die Bäche	stream, brook	BAKH, BEH-khuh	Noun (m), ach-Laut in sg., ich-Laut in pl.	L001 familiarization
+der Kuchen, die Kuchen	cake, cakes	KOO-khun	Noun (m), ach-Laut after u	L001 familiarization
+ich	I	IKH	Personal pronoun, ich-Laut [ç]	L001 familiarization
+die Milch	milk	MILKH	Noun (f), ich-Laut after l	L001 familiarization
+richtig	right, correct	RIKH-tikh	Adjective, -ig = -ich	L001 familiarization
+wichtig	important	VIKH-tikh	Adjective, w = v, -ig = -ich	L001 familiarization
+schön	beautiful, nice	SHØØN	Adjective, sch = sh, ö like Az/Tr	L001 familiarization
+über	over, about	YY-bah	Preposition, ü like Az/Tr, vocalic -er	L001 familiarization
+der Wein, die Weine	wine, wines	VAYN, VAY-nuh	Noun (m), w = v, ei = eye	L001 familiarization
+der Tag, die Tage	day, days	TAHK, TAH-guh	Noun (m), final devoicing g -> k	L001 familiarization
+rot	red	ROHT	Adjective, throat r	L001 familiarization
+die Nacht, die Nächte	night, nights	NAKHT, NEKH-tuh	Noun (f), ach-Laut in sg., ich-Laut in pl.	L001 familiarization
+trinken	to drink	TRING-kun	Verb, throat r	L001 familiarization
+wir	we	VEER	Personal pronoun, w = v, vocalic r	L001 familiarization
+ja	yes	YAH	Adverb, j = y	L001 familiarization
+das Jahr, die Jahre	year, years	YAHR, YAH-ruh	Noun (n), j = y, silent h	L001 familiarization
+und	and	OONT	Conjunction, final devoicing d -> t	L001 familiarization
+ab	from, off	AP	Preposition, final devoicing b -> p	L001 familiarization
+Wien	Vienna	VEEN	Proper noun, w = v, ie = long ee	L001 familiarization
